@@ -1,0 +1,28 @@
+# Items
+
+item.ruby.name=Ruby
+item.ruby_apple.name=Ruby Apple
+
+# Tools
+
+item.ruby_sword.name=Ruby Sword
+item.ruby_shovel.name=Ruby Shovel
+item.ruby_axe.name=Ruby Axe
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_hoe.name=Ruby Hoe
+
+# Armor
+
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_boots.name=Ruby Boots
+
+# Blocks
+
+tile.ruby_block.name=Block of Ruby
+tile.ruby_ore.name=Ruby Ore
+
+# Tabs
+
+itemGroup.rubycraft=RubyCraft
